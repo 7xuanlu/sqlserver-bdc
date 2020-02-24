@@ -1,0 +1,360 @@
+{
+    "schema": {
+        "fields": [
+            {
+                "type": "string",
+                "name": "Region"
+            },
+            {
+                "type": "double",
+                "name": "Trip_Length_Mean"
+            },
+            {
+                "type": "double",
+                "name": "Trip_Length_Sigma"
+            },
+            {
+                "type": "double",
+                "name": "Trips_Per_Day_Mean"
+            },
+            {
+                "type": "double",
+                "name": "Trips_Per_Day_Sigma"
+            },
+            {
+                "type": "string",
+                "name": "Manufacture_Year"
+            },
+            {
+                "type": "double",
+                "name": "Alternator_Efficiency"
+            },
+            {
+                "type": "boolean",
+                "name": "Car_Has_EcoStart"
+            },
+            {
+                "type": "double",
+                "name": "Twelve_hourly_temperature_history_for_last_31_days_before_death_last_recording_first"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_1"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_2"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_3"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_4"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_5"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_6"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_7"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_8"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_9"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_10"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_11"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_12"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_13"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_14"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_15"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_16"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_17"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_18"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_19"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_20"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_21"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_22"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_23"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_24"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_25"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_26"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_27"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_28"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_29"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_30"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_31"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_32"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_33"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_34"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_35"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_36"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_37"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_38"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_39"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_40"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_41"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_42"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_43"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_44"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_45"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_46"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_47"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_48"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_49"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_50"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_51"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_52"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_53"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_54"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_55"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_56"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_57"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_58"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_59"
+            },
+            {
+                "type": "double",
+                "name": "Sensor_Reading_60"
+            },
+            {
+                "type": "integer",
+                "name": "Survival_In_Days"
+            }
+        ]
+    },
+    "rows": [
+        [
+            "MidWest",
+            10.72683,
+            3.57561,
+            4.933752,
+            1.233438,
+            "Y2015",
+            0.9643111,
+            false,
+            0.7287034,
+            -7.620707,
+            5.743655,
+            -2.093845,
+            0.929363,
+            -5.724913,
+            10.83794,
+            -0.7949478,
+            12.79747,
+            0.4896609,
+            2.623741,
+            -5.30771,
+            8.006068,
+            -1.473688,
+            3.911732,
+            -5.721951,
+            7.864946,
+            -1.404707,
+            4.005886,
+            4.23024,
+            1.578591,
+            2.367717,
+            2.853473,
+            -4.492987,
+            4.241188,
+            1.476357,
+            2.495902,
+            2.934532,
+            8.344662,
+            2.726575,
+            6.560115,
+            -1.33436,
+            5.602337,
+            -4.497357,
+            2.636496,
+            -7.309591,
+            4.665259,
+            5.381108,
+            13.13042,
+            -7.556585,
+            5.231132,
+            -0.2179702,
+            14.796,
+            1.520054,
+            13.65594,
+            3.998937,
+            17.63611,
+            4.772035,
+            11.35471,
+            2.892428,
+            4.604537,
+            5.673653,
+            10.4029,
+            -3.467322,
+            8.90184,
+            4.245604,
+            12.54377,
+            1.278428,
+            12.4068,
+            3.526727,
+            6.707998,
+            1835
+        ]
+    ]
+}

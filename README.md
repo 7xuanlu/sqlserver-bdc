@@ -2,7 +2,7 @@
 
 # Lab: SQL Server Big Data Clusters - Architecture (CTP 3.2)
 
-#### <i>A Microsoft Course from the SQL Server team</i>
+#### <i>A Microsoft Course from the SQL Server team, and modified by [Jia-Qi Lu](https://github.com/h164654156465)</i>
 
 <p style="border-bottom: 1px solid lightgrey;"></p>
 
@@ -35,21 +35,22 @@ This Lab expects that you understand data structures and working with SQL Server
 
   <tr><td><a href="bdc_tutorial_00.ipynb" target="_blank">bdc_tutorial_00.ipynb</a></td><td> Overview of the Lab and Setup of the source data, problem space, solution options and architectures</td></tr>
 
-  <tr><td><a href="bdc_tutorial_01.ipynb" target="_blank">bdc_tutorial_01.ipynb</a></td><td> In this tutorial you will learn how to run standard SQL Server Queries against the Master Instance (MI) in a SQL Server big data cluster.</td></tr>
+  <tr><td><a href="bdc_tutorial_01.ipynb" target="_blank">bdc_tutorial_01.ipynb</a></td><td> In-depth details of a pod or other Kubernetes artifacts that are located in a SQL Server big data cluster.</td></tr>
 
-  <tr><td><a href="bdc_tutorial_02.ipynb</a></td><td> In this tutorial you will learn how to create and query Virtualized Data in a SQL Server big data cluster.</td></tr>
+  <tr><td><a href="bdc_tutorial_02.ipynb" target="_blank">bdc_tutorial_02.ipynb</a></td><td> View service endpoints the status of a SQL Server big data cluster components.
+  </td></tr>
 
-  <tr><td><a href="bdc_tutorial_03.ipynb" target="_blank">bdc_tutorial_03.ipynb</a></td><td> In this tutorial you will learn how to create and query a Data Mart using Virtualized Data in a SQL Server big data cluster.</td></tr>
+  <tr><td><a href="bdc_tutorial_03.ipynb" target="_blank">bdc_tutorial_03.ipynb</a></td><td> Run standard SQL Server Queries against the Master Instance (MI) in a SQL Server big data cluster.</td></tr>
 
-  <tr><td><a href="bdc_tutorial_04.ipynb" target="_blank">bdc_tutorial_04.ipynb</a></td><td> In this tutorial you will learn how to work with Spark Jobs in a SQL Server big data cluster.</td></tr>
+  <tr><td><a href="bdc_tutorial_04.ipynb" target="_blank">bdc_tutorial_04.ipynb</a></td><td> In this tutorial you will learn how to create and query Virtualized Data in a SQL Server big data cluster.</td></tr>
 
-  <tr><td><a href="bdc_tutorial_05.ipynb" target="_blank">bdc_tutorial_05.ipynb</a></td><td> In this tutorial you will learn how to work with Spark Machine Learning Jobs in a SQL Server big data cluster.</td></tr>
+  <tr><td><a href="bdc_tutorial_05.ipynb" target="_blank">bdc_tutorial_05.ipynb</a></td><td> In this tutorial you will learn how to create and query a Data Mart using Virtualized Data in a SQL Server big data cluster.</td></tr>
 
-  <tr><td><a href="bdc_tutorial_06.ipynb" target="_blank">bdc_tutorial_06.ipynb</a></td><td> In this tutorial you will learn how to work with Spark Machine Learning Jobs in a SQL Server big data cluster.</td></tr>
+  <tr><td><a href="bdc_tutorial_06.ipynb" target="_blank">bdc_tutorial_06.ipynb</a></td><td> In this tutorial you will learn how to work with Spark Jobs in a SQL Server big data cluster.</td></tr>
 
-  <tr><td><a href="bdc_tutorial_07.ipynb" target="_blank">bdc_tutorial_07.ipynb</a></td><td> In this tutorial you will learn how to work with Spark Machine Learning Jobs in a SQL Server big data cluster.</td></tr>
+  <tr><td><a href="bdc_tutorial_07.ipynb" target="_blank">bdc_tutorial_07.ipynb</a></td><td> In this tutorial you will learn how to train Spark ML model in a SQL Server big data cluster and export is as a MLeap bundle</td></tr>
 
-  <tr><td><a href="bdc_tutorial_08.ipynb" target="_blank">bdc_tutorial_08.ipynb</a></td><td> In this tutorial you will learn how to work with Spark Machine Learning Jobs in a SQL Server big data cluster.</td></tr>
+  <tr><td><a href="bdc_tutorial_08.ipynb" target="_blank">bdc_tutorial_08.ipynb</a></td><td> In this tutorial you will learn how to export and deploy MLeap bundle in a SQL Server big data cluster.</td></tr>
 
 </table>
 

@@ -1,8 +1,10 @@
 ![](graphics/microsoftlogo.png)
 
-# Lab: SQL Server Big Data Clusters - Architecture (CTP 3.2)
+# Lab: SQL Server Big Data Clusters
 
-#### <i>A Microsoft Course from the SQL Server team, and modified by [Jia-Qi Lu](https://github.com/h164654156465)</i>
+> Contributor: Martin  
+> Purpose: Demo/Workshop  
+> Updated date: 2020/02/24
 
 <p style="border-bottom: 1px solid lightgrey;"></p>
 
